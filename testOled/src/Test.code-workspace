@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../../../Code/Test"
+		},
+		{
+			"name": "testOled",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
